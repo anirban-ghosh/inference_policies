@@ -81,6 +81,8 @@ deemed mandatory to be filled by the submitter.  Power is  measured at the
 system level, and so a detailed description of the system/platform has to
 be provided as has been agreed.  
 
+Datacenter-power submission systems must meet all the requirements of a Datacenter system as described in the Inference Rules document and include at least one network interface card (NIC). This should also be mentioned in the platform description as stated above.
+
 For each submission the Power Management settings for the system to achieve
 the measured performance and power for the submissions must be documented.
 This is needed for reproducibility and verifiability
