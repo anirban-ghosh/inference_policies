@@ -85,6 +85,8 @@ For each submission the Power Management settings for the system to achieve
 the measured performance and power for the submissions must be documented.
 This is needed for reproducibility and verifiability
 
+Datacenter-power submission systems must meet all the requirements of a Datacenter system as described in the Inference Rules document and include at least one network interface card (NIC).  This should also be mentioned in the platform description as stated above.  
+
 An example file is here :  https://docs.google.com/document/d/1-j7TWCFBlTGi_EIpS2mQpgQLobtV0ITn2BJCakOgAZ4
 
 
